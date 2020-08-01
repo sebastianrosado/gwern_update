@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="hakyll">
+<meta name="google-site-verification" content="BOhOQI1uMfsqu_DopVApovk1mJD5ZBLfan0s9go3phk" />
+<meta name="title" content="Shawwn.com Index of Essays" <meta name="author" content="shawwn">
+<meta name="description" content="Researcher and writer. Categorized list of shawwn.com pages.">
+<meta name="keywords" content="AI, technology">
+<meta name="dc.date.issued" content="25 Aug 2019">
+<meta name="dcterms.modified" content="25 Aug 2019">
+<link rel="canonical" href="https://www.shawwn.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Essays - Shawwn.com</title>
+<link rel="stylesheet" type="text/css" href="./static/css/default.css" />
+<link rel="stylesheet" type="text/css" href="./static/css/fonts.css" />
+<link rel="apple-touch-icon" sizes="180x180" href="/static/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/favicon/favicon-16x16.png">
+<link rel="manifest" href="/static/favicon/site.webmanifest">
+<link rel="mask-icon" href="/static/favicon/safari-pinned-tab.svg" color="#131313">
+<meta name="apple-mobile-web-app-title" content="shawwn.com">
+<meta name="application-name" content="shawwn.com">
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body class="siteIndex">
+<main>
+<div id="sidebar">
+<a id="logo" href="/index" title="index: categorized list of articles">
+<img alt="Logo [the logo is a Gothic/Fraktur blackletter capital S]" src="/images/logo-smooth.svg">
+</a>
+<div id="sidebar-links">
+<a class="home" href="/index" title="index: categorized list of articles">Home</a>
+<a class="site" href="/About" title="Site ideals, source, content, traffic, examples, license">Site</a>
+<a class="links" href="/Links" title="Who am I online, what have I done, what am I like? Contact information; sites I use; things I've worked on">Me</a>
+<a class="new" href="/Changelog" title="What's new or updated">What's New?</a>
+<!--
+<a class="mail" href="https://tinyletter.com/shawwn" title="Monthly mailing list: newsletter signup form"><i>mail</i></a>
+<a class="r_shawwn" href="https://www.reddit.com/r/shawwn/" title="Shawwn subreddit: link-sharing &amp; commentary (the links typically are included in the monthly newsletter)"><em><code>/r/shawwn</code></em></a>
+<a class="patreon" href="https://www.patreon.com/shawwn" title="Link to Patreon donation profile to support my writing">support on<br><span>PATREON</span></a>
+-->
+</div>
+</div>
+<article>
+<div id="markdownBody">
+<div id="abstract">
+<p>This is the website of <strong>Shawn Presser</strong>.</p>
+<p>For information about my site’s philosophy, method, and implementation, see the <em><a href="./About">About page</a></em>; for information about myself, my use of other websites, and contact information, see the <em><a href="./Links">Links page</a></em>; for information about new pages, see the <em><a href="./Changelog">Changelog</a></em>; to receive updates, news, &amp; reviews, <em><a href="https://tinyletter.com/shawwn">subscribe to the newsletter</a></em><!-- (<a href="./tags/newsletter">archives</a>)-->.</p>
+</div>
+<section id="personal" class="level1">
+<h1>Personal</h1>
+<ul>
+	<li><a href="./About" title="Site ideals; source &amp; content; examples; license">About</a> / <a href="./Links" title="Who am I online &amp; what have I done? - Contact information; sites I use; things I've worked on">Links</a><!-- / <a href="./tags/newsletter">newsletter archives</a>--></li>
+</ul>
+</section>
+</div>
+</article>
+</main>
+
+<script src="/static/js/popups.js" defer></script>
+
+<script id="googleAnalytics" src="https://www.googletagmanager.com/gtag/js?id=UA-146440227-1" async></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-146440227-1');
+    </script>
+</body>
+</html>

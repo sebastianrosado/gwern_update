@@ -1,0 +1,12 @@
+dist-newstyle
+_cache
+_site
+*.swp
+*.o
+*.hi
+hakyll
+node_modules
+.ghc.*
+./Main
+./wiki
+.stack-work
